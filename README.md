@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul Escorcia
-- 👀 I’m interested in: Video Games, 3D Stuff, Music, and Coding
+- 👀 I’m interested in: Video Games, Art, 3D Stuff, Music, and Coding
 - 🌱 I’m currently learning Web Development. Looking to end up as a Front end or Full Stack Developer!
 - 📫 How to reach me: paul.escorcia@gmail.com
 
